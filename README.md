@@ -1,10 +1,10 @@
 # Note-Taker
 
-An application that can be used to write and save notes.
+An application that can be used to write, save, and delete notes.
 
 # Description
 
-This application will use an Express.js back-end and will save and retrieve note data from a JSON file.
+Note Taker application can be used to write, save, and delete notes. This application uses an Express.js back-end and save and retrieve note data from a JSON file.
 
 # Table of Contents
 
@@ -12,7 +12,6 @@ This application will use an Express.js back-end and will save and retrieve note
 * Installation
 * Usage
 * Technologies Used
-* License
 * Screenshots
 * Questions
 
@@ -37,12 +36,9 @@ npm install express
 
 * HTML
 * CSS
+* Bootstrap
 * JavaScript
 * Express.js
-
-# License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Screenshots
 
