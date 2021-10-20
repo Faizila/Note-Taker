@@ -21,11 +21,19 @@ app.get("/notes", (req, res) =>
     res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
-app.get("/api/notes", (req, res) =>
-    res.sendFile(path.join(__dirname, "/db.json"))
-);
+app.get("/api/notes", (req, res) => {
+    fs.readFile("./db/db.json", "utf-8", (err, data) => {
+      if (err) throw err;
+      res.send(data);
+    });
+  });
 
 // function to read and add a note
+
+
+
+
+// deleting the note
 
     
 
