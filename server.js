@@ -35,7 +35,7 @@ app.post(`/api/notes`, function (req, res) {
     db = JSON.parse(db);
     const oldNote = db[db.length - 1];
     const id = oldNote ? oldNote.id + 1 : 1;
-    db.push({ ...req.body, id });
+     db.push({ ...req.body, id });
     fs.writeFile("./db/db.json", JSON.stringify(db), function (err, data) {
       if (err) throw err;
       res.json("Successfully added a Note!");
@@ -51,10 +51,7 @@ app.delete(`/api/notes/:id`, function (req, res) {
     const filterNote = db.filter(function (note) {
       return note.id != req.params.id;
     });
-    fs.writeFile(
-      "./db/db.json",
-      JSON.stringify(filterNote),
-      function (err, data) {
+    fs.writeFile("./db/db.json", JSON.stringify(filterNote), function (err, data) {
         if (err) throw err;
         res.json("Successfully deleted the Note!");
       }
@@ -63,4 +60,4 @@ app.delete(`/api/notes/:id`, function (req, res) {
 });
 
 // Starts the server
-app.listen(PORT, () => console.log(`App listening on PORT: ${PORT}`));
+app.listen(PORT, () => console.log(`App listening at http://localhost:${PORT}`));
