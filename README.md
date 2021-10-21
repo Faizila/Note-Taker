@@ -68,7 +68,7 @@ Refer to Video section for walkthrough video links.
 
 # Link of Deployed Application on Heroku
 
-
+https://shrouded-brushlands-22897.herokuapp.com/
 
 # Screenshots
 
