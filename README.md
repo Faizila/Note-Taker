@@ -12,6 +12,7 @@ Note Taker application can be used to write, save, and delete notes. This applic
 * Installation
 * Usage
 * Technologies Used
+* Test
 * Link of Deployed Application on Heroku
 * Screenshots
 * Videos
@@ -20,6 +21,7 @@ Note Taker application can be used to write, save, and delete notes. This applic
 # Built With:
 
 * Uses the [Express package](https://www.npmjs.com/package/express).
+* Uses the [Insomnia](https://insomnia.rest/download) to test the code.
 
 # Installation
 
@@ -39,6 +41,8 @@ The application will be invoked by using the following command:
 ```bash
 npm start
 ```
+It runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
 # Technologies Used
 
@@ -49,6 +53,16 @@ npm start
 * Express.js
 * Insomnia
 * Heroku
+
+# Test
+
+The application will be invoked by using the following command:
+
+```bash
+npm start
+```
+It runs the app in the development mode.
+Open Insomnia and paste the link http://localhost:3000 to test the code.
 
 # Link of Deployed Application on Heroku
 
@@ -64,7 +78,10 @@ npm start
 
 # Videos
 
+See a walkthrough video demonstrating the functionality of the application here:
+https://watch.screencastify.com/v/pIMM6Yd4Oo6l5HSpEo3Q
 
+DEMO Functionality:
 
 # Questions
 
