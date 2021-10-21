@@ -62,7 +62,15 @@ The application will be invoked by using the following command:
 npm start
 ```
 It runs the app in the development mode.
-Open Insomnia and paste the link http://localhost:3000 to test the code.
+Open Insomnia and use the local host link http://localhost:3000 to test the code.
+
+See a walkthrough video demonstrating the testing with Insomnia here:
+<br>
+https://watch.screencastify.com/v/hhyj138kH0Bl1mSV9B9P
+<br>
+DEMO Testing:
+<br>
+
 
 # Link of Deployed Application on Heroku
 
