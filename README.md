@@ -64,13 +64,7 @@ npm start
 It runs the app in the development mode.
 Open Insomnia and use the local host link http://localhost:3000 to test the code.
 
-See a walkthrough video demonstrating the testing with Insomnia here:
-<br>
-https://watch.screencastify.com/v/hhyj138kH0Bl1mSV9B9P
-<br>
-DEMO Testing:
-<br>
-
+Refer to Video section for walkthrough video links.
 
 # Link of Deployed Application on Heroku
 
@@ -89,10 +83,18 @@ DEMO Testing:
 See a walkthrough video demonstrating the functionality of the application here:
 <br>
 https://watch.screencastify.com/v/pIMM6Yd4Oo6l5HSpEo3Q
-
+<br>
 DEMO Functionality:
 <br>
 https://github.com/Faizila/Note-Taker/blob/main/Images/demo.gif
+<br>
+See a walkthrough video demonstrating the testing with Insomnia here:
+<br>
+https://watch.screencastify.com/v/hhyj138kH0Bl1mSV9B9P
+<br>
+DEMO Testing:
+<br>
+https://github.com/Faizila/Note-Taker/blob/main/Images/test.gif
 
 # Questions
 
