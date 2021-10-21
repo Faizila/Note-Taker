@@ -80,17 +80,9 @@ Refer to Video section for walkthrough video links.
 
 # Videos
 
-See a walkthrough video demonstrating the functionality of the application here:
-<br>
-https://watch.screencastify.com/v/pIMM6Yd4Oo6l5HSpEo3Q
-<br>
 DEMO Functionality:
 <br>
 https://github.com/Faizila/Note-Taker/blob/main/Images/demo.gif
-<br>
-See a walkthrough video demonstrating the testing with Insomnia here:
-<br>
-https://watch.screencastify.com/v/hhyj138kH0Bl1mSV9B9P
 <br>
 DEMO Testing:
 <br>
