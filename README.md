@@ -79,9 +79,12 @@ Open Insomnia and paste the link http://localhost:3000 to test the code.
 # Videos
 
 See a walkthrough video demonstrating the functionality of the application here:
+<br>
 https://watch.screencastify.com/v/pIMM6Yd4Oo6l5HSpEo3Q
 
 DEMO Functionality:
+<br>
+https://github.com/Faizila/Note-Taker/blob/main/Images/demo.gif
 
 # Questions
 
